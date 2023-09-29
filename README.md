@@ -1,15 +1,12 @@
 ### Hi there 👋
 
 
-**Aja-buchi/Aja-buchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome** to my ✨ _special_ ✨ space
 
-Here are some ideas to get you started:
+Let's collaborate to chun out cutting edge applications:
 
-- 🔭 Know this learning is a continous process, it never ends.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning and upskilling because learning is a continous process, it never ends.
 - 👯 I’m looking to collaborate on open sources
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about.. uhhmm, practically anything. you may get lucky
 - 📫 How to reach me: onyebuchiaja@gmail.com
 - ⚡ I am sporty and Jiggy
-
